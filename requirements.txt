@@ -30,7 +30,6 @@ magic-filter==1.0.12
 Markdown==3.7
 MarkupSafe==3.0.2
 mistralai==1.2.3
-motor==3.6.0
 multidict==6.1.0
 mypy-extensions==1.0.0
 ngrok==1.4.0
